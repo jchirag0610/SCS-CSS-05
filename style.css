@@ -24,7 +24,7 @@ body {
     padding: 50px;
 }
 
-.card{
+.card1{
     background-color: #fff;
     border-radius: 12px;
     height:200px;
@@ -37,7 +37,7 @@ body {
     transform: rotate(-20deg);
     box-shadow: 10px 20px #00000055;
 }
-.card_back{
+.card1_back{
     background-color: #92ADF7;
     height:190px;
     width:190px;
@@ -48,29 +48,29 @@ body {
     transform: rotate(20deg);
     box-shadow: 10px 20px #00000055;
 }
-.card img{
+.card1 img{
     height:60px;
     width:60px;
     object-fit: cover;
     border-radius: 50%;
     transform: translateY(-50%);
 }
-.card h2,h3,p {
+.card1 h2,h3,p {
     text-align: center;
 }
-.card h2{
+.card1 h2{
     color:#08236D;
     font-size: 20px;
     font-weight:700;
     margin-bottom: 10px;
 }
-.card h3{
+.card1 h3{
     color:#020818;
     font-size:16px;
     font-weight: 500;
     margin-bottom:10px;
 }
-.card p{
+.card1 p{
     color:#678DF4;
     font-size:13px;
     margin-bottom:20px;
