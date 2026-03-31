@@ -17,6 +17,8 @@ body {
 }
 .main{
     display: flex;
+    gap:50px;
+    justify-content: center;
     height: 100%;
     background-color: #222;
     padding: 50px;
@@ -33,9 +35,10 @@ body {
     align-items: center;
     padding:5px;
     transform: rotate(-20deg);
+    box-shadow: 10px 20px #00000055;
 }
 .card_back{
-    background-color: #0e7be8;
+    background-color: #FABDD5;
     height:190px;
     width:190px;
     display: flex;
@@ -43,6 +46,7 @@ body {
     align-items: center;
     border-radius: 12px;
     transform: rotate(20deg);
+    box-shadow: 10px 20px #00000055;
 }
 .card img{
     height:60px;
@@ -55,19 +59,19 @@ body {
     text-align: center;
 }
 .card h2{
-    color:#343a40;
-    font-size: 22px;
+    color:#ED156D;
+    font-size: 20px;
     font-weight:700;
     margin-bottom: 10px;
 }
 .card h3{
-    color:#6c757d;
-    font-size:20px;
+    color:#442a34;
+    font-size:16px;
     font-weight: 500;
-    margin-bottom:5px;
+    margin-bottom:10px;
 }
 .card p{
-    color:#adb5bd;
-    font-size:12px;
+    color:#F792BA;
+    font-size:13px;
     margin-bottom:20px;
 }
