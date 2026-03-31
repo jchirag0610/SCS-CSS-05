@@ -3,10 +3,6 @@
     src: url(HelveticaNowDisplay-Regular.woff2);
 }
 
-@font-face {
-    font-family: game;
-    src: url(GameScoreDemoRegular.ttf);
-}
 
 * {
     margin: 0;
