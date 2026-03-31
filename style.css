@@ -38,7 +38,7 @@ body {
     box-shadow: 10px 20px #00000055;
 }
 .card_back{
-    background-color: #FABDD5;
+    background-color: #92ADF7;
     height:190px;
     width:190px;
     display: flex;
@@ -59,19 +59,19 @@ body {
     text-align: center;
 }
 .card h2{
-    color:#ED156D;
+    color:#08236D;
     font-size: 20px;
     font-weight:700;
     margin-bottom: 10px;
 }
 .card h3{
-    color:#442a34;
+    color:#020818;
     font-size:16px;
     font-weight: 500;
     margin-bottom:10px;
 }
 .card p{
-    color:#F792BA;
+    color:#678DF4;
     font-size:13px;
     margin-bottom:20px;
 }
